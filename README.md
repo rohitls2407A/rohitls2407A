@@ -62,7 +62,7 @@ Education: Computer Science & Engineering
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anurag_singh_pvt.8)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.singh.ls011@gmail.com)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AnuragSingh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/anuragsinghls011-webdeveloper)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139)](https://github.com/anuragsinghls011-webdeveloper)
 
 </div>
 
@@ -100,12 +100,12 @@ Education: Computer Science & Engineering
 ### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
 
 ### 📊 Data Science & Design
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -237,12 +237,15 @@ A modern, responsive portfolio website showcasing projects, skills, and professi
 
 ---
 
+<!-- 
 ## 🐍 **Contribution Snake**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/anuragsinghls011-webdeveloper/anuragsinghls011-webdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <br/>
+  <em>Note: You need to set up a GitHub Action to generate this snake animation SVG in your profile repository.</em>
 </div>
-
+-->
 ---
 
 <div align="center">

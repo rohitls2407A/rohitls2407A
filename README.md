@@ -1,174 +1,109 @@
-<!--
-  Reference for future edits:
-  - Hero + section banners → capsule-render (github.com/kyechan99/capsule-render)
-  - Typing tagline        → readme-typing-svg.demolab.com
-  - Skill icons           → skillicons.dev
-  - Stats / streak / trophies / quote → github-readme-stats, streak-stats, github-profile-trophy, github-readme-quotes (all set to the gruvbox theme)
-  - Contribution snake    → needs a ONE-TIME setup with the included snake.yml — see the setup steps shared alongside this file
--->
+<div align="center">
+
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"> Hi there, I'm Anurag Singh!
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Backend+Developer+🚀;API+Architect+⚙️;Passionate+about+System+Design+💻;Welcome+to+my+Profile!+✨" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:d65d0e,100:d79921&height=220&section=header&text=Hi%20There,%20I'm%20Anurag%20Singh%20👋&fontSize=38&fontColor=ebdbb2&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer%20%7C%20Node.js%20and%20Express%20%7C%20Building%20AI-Powered%20Systems&descAlignY=55&descSize=16" alt="header banner" />
+  I love turning complex logic into optimized, high-performing APIs and managing real-world data flows.
 </p>
 
+<!-- Social Links -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D79921&center=true&vCenter=true&width=650&lines=Turning+complex+logic+into+optimized+APIs;Building+an+AI-driven+GovTech+platform;Exploring+system+design+and+performance;Open+to+Backend+Internship+opportunities" alt="Typing SVG" />
+  <a href="mailto:anurag.singh.ls011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/anurag-singh-04ab39378/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/anurag_singh_pvt.8"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://mastodon.social/@Anurag%20Singh"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
 </p>
+<br>
 
-<p align="center">
-  <a href="https://instagram.com/anurag_singh_pvt.8"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/anurag-singh-04ab39378/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://mastodon.social/@AnuragSingh"><img src="https://skillicons.dev/icons?i=mastodon" height="40" alt="Mastodon"/></a>&nbsp;
-  <a href="mailto:anurag.singh.ls011@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/></a>
-  <!-- Got a resume, X/Twitter, or Discord you want here too? Uncomment and fill in:
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-d65d0e?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
-  <a href="YOUR_TWITTER_URL"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="X / Twitter"/></a>
-  <a href="YOUR_DISCORD"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/></a>
-  -->
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Backend%20Internships-d65d0e?style=for-the-badge" alt="open to internships"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=About%20Me&fontSize=28&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="About Me"/>
-</p>
+### 💫 About Me
 
-- 🔭 **Currently working on:** an AI-driven project (**Sarkar Setu**) that automates and simplifies user access to government schemes — blending backend services with smart assistance.
-- 👯 **Looking to collaborate on:** scalable backend architectures, competitive hackathons, and real-world RESTful API development.
-- 🤝 **Looking for help with:** an exciting **backend development internship** where I can contribute to real-world products and grow alongside experienced professionals.
-- 🌱 **Currently learning:** advanced system design, performance optimization, and deployment with **Render** & **MongoDB Atlas**.
-- 🎓 **Status:** Student
-  <!-- Add your college, branch & graduating year here if you'd like, e.g. "B.Tech CSE, XYZ University · 2026" -->
-- ⚡ **Fun fact:** I enjoy turning messy, complex logic into clean, high-performing APIs.
+*   🔭 **Currently working on:** An AI-driven project automating and simplifying user access to government schemes, blending backend services with smart assistance.
+*   🌱 **Currently learning:** Advanced system design, performance optimization, and scalable deployments using **Render** and **MongoDB Atlas**.
+*   👯 **Looking to collaborate on:** Scalable backend architectures, competitive hackathons, and real-world RESTful API developments.
+*   🤝 **Looking for help with:** Finding an exciting backend development internship where I can contribute to impactful products and grow alongside experienced professionals!
+*   ⚡ **Fun fact:** I can debug code in my sleep... mostly because I dream in JSON.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=Tech%20Stack&fontSize=28&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="Tech Stack"/>
-</p>
+---
 
-<p align="center"><sub><b>LANGUAGES</b></sub></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py&theme=dark" alt="languages"/></p>
+### 💻 Tech Stack
 
-<p align="center"><sub><b>BACKEND & DATABASES</b></sub></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,redis,firebase,supabase&theme=dark" alt="backend and databases"/></p>
+<details open>
+<summary><b>Languages</b></summary>
+<br>
+  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+</details>
 
-<p align="center"><sub><b>FRONTEND & BUILD TOOLS</b></sub></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,vite,wordpress&theme=dark" alt="frontend and build tools"/></p>
+<details open>
+<summary><b>Backend & Databases</b></summary>
+<br>
 
-<p align="center"><sub><b>DEVOPS & TOOLS</b></sub></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,postman,powershell&theme=dark" alt="devops and tools"/></p>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+</details>
 
-<p align="center"><sub><b>ALSO COMFORTABLE WITH</b></sub></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%23BBDEAD" />
-  <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
+<details open>
+<summary><b>Frontend & Tools</b></summary>
+<br>
+  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+</details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=GitHub%20Stats&fontSize=28&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="GitHub Stats"/>
-</p>
+<details open>
+<summary><b>DevOps & Software</b></summary>
+<br>
+  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+</details>
 
-<table align="center">
-  <tr>
-    <td><img height="165" src="https://github-readme-stats.shion.dev/api?username=anuragsinghls011-webdeveloper&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats"/></td>
-    <td><img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragsinghls011-webdeveloper&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="top languages"/></td>
-  </tr>
-</table>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=anuragsinghls011-webdeveloper&theme=gruvbox&hide_border=true" alt="streak stats"/>
-</p>
+### 🚀 Featured Projects
 
-<p align="center"><sub>If a card above shows an error, it's a temporary rate limit on the shared stats service — refreshing usually fixes it.</sub></p>
+| 🏥 MediTrack | 📄 AI Powered Document Management |
+| :--- | :--- |
+| **Hospital Inventory Management System**<br><br>![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat-square) ![Python](https://img.shields.io/badge/-Python-222222?style=flat-square)<br>Inventory tracking & Optimized DB operations.<br><br>[![View](https://img.shields.io/badge/View_Source-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/rach-kanc/MediTrack) | *(Add short description here)*<br><br>![Tech](https://img.shields.io/badge/Tech-222222?style=flat-square)<br>Features/Highlights go here.<br><br>[![View](https://img.shields.io/badge/View_Source-8A2BE2?style=flat-square&logo=github&logoColor=white)](#) |
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=Contribution%20Snake&fontSize=26&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="Contribution Snake"/>
-</p>
+| 🏛️ SARKAR SETU | 🌐 Portfolio Website |
+| :--- | :--- |
+| *(Add short description here)*<br><br>![Tech](https://img.shields.io/badge/Tech-222222?style=flat-square)<br>Features/Highlights go here.<br><br>[![View](https://img.shields.io/badge/View_Source-8A2BE2?style=flat-square&logo=github&logoColor=white)](#) | *(Add short description here)*<br><br>![Tech](https://img.shields.io/badge/Tech-222222?style=flat-square)<br>Features/Highlights go here.<br><br>[![View](https://img.shields.io/badge/View_Source-8A2BE2?style=flat-square&logo=github&logoColor=white)](#) |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuragsinghls011-webdeveloper/anuragsinghls011-webdeveloper/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuragsinghls011-webdeveloper/anuragsinghls011-webdeveloper/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anuragsinghls011-webdeveloper/anuragsinghls011-webdeveloper/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+*(Note: Replace the `#` links and placeholder descriptions in the table above with your actual project details!)*
 
-<p align="center"><sub>⚙️ Needs a one-time setup with the included <code>snake.yml</code> — steps are in the chat, not in this file. The image stays blank until then.</sub></p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=Featured%20Projects&fontSize=26&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="Featured Projects"/>
-</p>
+### 📊 GitHub Stats & Activity
 
-<table align="center" width="100%">
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech</th>
-    <th>Link</th>
-  </tr>
-  <tr>
-    <td>🏥 <b>MediTrack</b></td>
-    <td>Hospital inventory management system with real-time tracking and optimized database operations</td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,py&theme=dark" height="32" alt="MySQL, Python"/></td>
-    <td><a href="https://github.com/rach-kanc/MediTrack"><img src="https://img.shields.io/badge/View%20Repo-d65d0e?style=for-the-badge&logo=github&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td>🏛️ <b>Sarkar Setu</b></td>
-    <td>AI-driven platform automating and simplifying user access to government schemes</td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td>🤖 <b>AI Document Management System</b></td>
-    <td>AI-powered platform for intelligent document handling and management</td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
-  <tr>
-    <td>🌐 <b>Portfolio Website</b></td>
-    <td>Personal portfolio showcasing projects and skills</td>
-    <td>—</td>
-    <td>—</td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=anuragsinghls011-webdeveloper&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=anuragsinghls011-webdeveloper&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=anuragsinghls011-webdeveloper&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=anuragsinghls011-webdeveloper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="48%" />
+</div>
 
-<!-- Fill in the "—" cells once repo/live links are ready, for example:
-  <td><img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark" height="32"/></td>
-  <td><a href="REPO_URL"><img src="https://img.shields.io/badge/View%20Repo-d65d0e?style=for-the-badge&logo=github&logoColor=white"/></a></td>
--->
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:282828,50:d65d0e,100:d79921&height=90&text=Trophies%20and%20Extras&fontSize=26&fontColor=ebdbb2&animation=fadeIn&fontAlignY=60" alt="Trophies and Extras"/>
-</p>
+### 🏆 Trophies & Quote
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragsinghls011-webdeveloper&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anuragsinghls011-webdeveloper&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="dev quote"/>
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anuragsinghls011-webdeveloper&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo"/>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=anuragsinghls011-webdeveloper&label=Profile%20Views&color=d65d0e&style=for-the-badge" alt="profile views"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:d65d0e,100:d79921&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20🚀&fontSize=20&fontColor=ebdbb2&animation=fadeIn" alt="footer"/>
-</p>
-
-<p align="center"><sub><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></sub></p>
+<br>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=anuragsinghls011-webdeveloper&icon=0&color=0077B5&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</div>
